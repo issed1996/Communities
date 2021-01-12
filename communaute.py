@@ -44,7 +44,7 @@ def main():
             import articls_authors as aa
             print(aa.Community(Author,N))
     except:
-        print('tray again...')
+        print('try again...')
         
 if __name__=='__main__':
     main()        
